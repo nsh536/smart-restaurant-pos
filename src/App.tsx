@@ -1,7 +1,8 @@
-import Home from './pages/Home'
+
+import Menu from './pages/Menu'
 
 function App() {
-  return <Home />
+  return <Menu />
 }
 
 export default App
